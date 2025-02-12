@@ -598,6 +598,7 @@ class _FreightFormState extends State<FreightForm> {
                 ),
               ),
               style: ButtonStyle(
+                //for the button styling
                 backgroundColor:
                     WidgetStatePropertyAll(Color.fromRGBO(230, 235, 255, 1)),
                 shape: WidgetStateProperty.all<RoundedRectangleBorder>(
